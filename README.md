@@ -67,9 +67,11 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkr20&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=vikashkr20&theme=radical&hide_border=true" />
 
 </div>
+
+> Note: the stats cards above use a free shared service that occasionally goes down for everyone (not just you). If a card looks broken when you check your profile, just wait a bit and refresh — it usually comes back on its own.
 
 ---
 
@@ -96,6 +98,13 @@
 <div align="center">
 
 💬 **Let's connect and collaborate on data-driven projects!**
+
+<a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/vkstarraj/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
