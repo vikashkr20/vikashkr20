@@ -1,14 +1,19 @@
 <h1 align="center">Hi there, I'm Vikash Kumar 👋</h1>
-<h3 align="center">Data Science | Data Analytics | Python | SQL | Excel | Power BI</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vkstarraj/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Data+Analytics;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/vkstarraj/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vikashkr20&color=f72585&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -55,16 +60,43 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashkr20&show_icons=true&theme=radical" alt="Vikash's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkr20&theme=radical" alt="Vikash's GitHub streak" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikashkr20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkr20&layout=compact&theme=radical&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkr20&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  💬 Let's connect and collaborate on data-driven projects!
-</p>
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vikashkr20&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+### 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkr20&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 **Let's connect and collaborate on data-driven projects!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
