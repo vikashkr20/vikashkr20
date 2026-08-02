@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:vikashku445545@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/vkstarraj/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -14,6 +17,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashkr20&color=f72585&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+---
+
+### 📎 Quick Links
+
+- 📄 **Resume/CV:** [Download here](https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf) <!-- upload your CV to this repo and update the filename/link if different -->
+- 🌐 **Portfolio:** [your-portfolio-link-here](#) <!-- replace with your portfolio site once live -->
+- 📧 **Email:** [vikashku445545@gmail.com](mailto:vikashku445545@gmail.com)
 
 ---
 
@@ -50,6 +61,7 @@
 | [ML Cancer Cell Classification](https://github.com/vikashkr20/ML-Cancer-cell-classification-using-Scikit-learn) | Classifying cancer cells using Scikit-learn ML models |
 | [Heart Stroke Prediction](https://github.com/vikashkr20/Heart-Stroke-Prediction) | Predicting stroke risk using health data & ML models |
 | [Data Analyst — Convexity Sensitivity AI Agent](https://github.com/vikashkr20/Data-Analyst-Convexity-Sensitivity-AI-Agent) | AI agent for analyzing convexity & sensitivity in financial data |
+| [Data Analyst — Commodity Price Forecasting Agent](https://github.com/vikashkr20/Data-Analyst-Commodity-Price-Forecasting-Agent) | AI agent forecasting commodity price trends |
 | [Raw Music Store Analysis (SQL)](https://github.com/vikashkr20/Raw-Music-Store-Analysis-SQL-) | SQL-based analysis of a music store's sales data |
 | [Data Analyst — Securitisation](https://github.com/vikashkr20/Data-Analyst-Securitisation) | Data analysis project on securitisation datasets |
 | [SQL Analysis](https://github.com/vikashkr20/SQL-Analysis-) | T-SQL based data analysis project |
@@ -101,6 +113,9 @@
 
 <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vikashku445545@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/vkstarraj/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
