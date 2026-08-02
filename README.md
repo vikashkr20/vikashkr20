@@ -7,7 +7,7 @@
 <a href="https://vikashkr20.github.io">
   <img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf">
+<a href="https://vikashkr20.github.io/Vikash_Kumar_Resume_DA.pdf">
   <img src="https://img.shields.io/badge/Resume-1E7A6C?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
@@ -29,7 +29,7 @@
 ### 📎 Quick Links
 
 - 🌐 **Portfolio:** [vikashkr20.github.io](https://vikashkr20.github.io) <!-- update this if you host on Netlify or a custom domain instead -->
-- 📄 **Resume/CV:** [Download here](https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf) <!-- upload Vikash_Kumar_Resume_DA.pdf to this repo so the link resolves -->
+- 📄 **Resume/CV:** [Download here](https://vikashkr20.github.io/Vikash_Kumar_Resume_DA.pdf)
 - 📧 **Email:** [vikashku445545@gmail.com](mailto:vikashku445545@gmail.com)
 
 ---
