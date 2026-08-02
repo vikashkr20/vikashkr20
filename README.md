@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Data+Analytics;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
+<a href="https://vikashkr20.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf">
+  <img src="https://img.shields.io/badge/Resume-1E7A6C?style=for-the-badge&logo=readdotcv&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -22,8 +28,8 @@
 
 ### 📎 Quick Links
 
-- 📄 **Resume/CV:** [Download here](https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf) <!-- upload your CV to this repo and update the filename/link if different -->
-- 🌐 **Portfolio:** [your-portfolio-link-here](#) <!-- replace with your portfolio site once live -->
+- 🌐 **Portfolio:** [vikashkr20.github.io](https://vikashkr20.github.io) <!-- update this if you host on Netlify or a custom domain instead -->
+- 📄 **Resume/CV:** [Download here](https://github.com/vikashkr20/vikashkr20/blob/main/Vikash_Kumar_Resume_DA.pdf) <!-- upload Vikash_Kumar_Resume_DA.pdf to this repo so the link resolves -->
 - 📧 **Email:** [vikashku445545@gmail.com](mailto:vikashku445545@gmail.com)
 
 ---
@@ -58,15 +64,15 @@
 
 | Project | Description |
 |---|---|
+| [E-Commerce Analytics Dashboard](https://github.com/vikashkr20/Power-BI-Analysis-) | End-to-end BI pipeline: PostgreSQL views + 9-page Power BI DirectQuery report, 30+ DAX measures |
+| [Ride Booking Analytics Dashboard](https://github.com/vikashkr20/Riding-Analysis) | Analysis of 150K ride bookings — ₹47.26M revenue, driver-cancellation root cause via Python + Power BI |
+| [Commodity Price Forecasting Agent](https://github.com/vikashkr20/Data-Analyst-Commodity-Price-Forecasting-Agent) | AI agent forecasting commodity price trends |
+| [Convexity & Interest-Rate Sensitivity Agent](https://github.com/vikashkr20/Data-Analyst-Convexity-Sensitivity-AI-Agent) | AI agent for bond convexity & interest-rate sensitivity analysis |
+| [Securitisation Data Analysis](https://github.com/vikashkr20/Data-Analyst-Securitisation) | Modeling cash-flow and risk in pooled financial assets |
 | [ML Cancer Cell Classification](https://github.com/vikashkr20/ML-Cancer-cell-classification-using-Scikit-learn) | Classifying cancer cells using Scikit-learn ML models |
 | [Heart Stroke Prediction](https://github.com/vikashkr20/Heart-Stroke-Prediction) | Predicting stroke risk using health data & ML models |
-| [Data Analyst — Convexity Sensitivity AI Agent](https://github.com/vikashkr20/Data-Analyst-Convexity-Sensitivity-AI-Agent) | AI agent for analyzing convexity & sensitivity in financial data |
-| [Data Analyst — Commodity Price Forecasting Agent](https://github.com/vikashkr20/Data-Analyst-Commodity-Price-Forecasting-Agent) | AI agent forecasting commodity price trends |
-| [Raw Music Store Analysis (SQL)](https://github.com/vikashkr20/Raw-Music-Store-Analysis-SQL-) | SQL-based analysis of a music store's sales data |
-| [Data Analyst — Securitisation](https://github.com/vikashkr20/Data-Analyst-Securitisation) | Data analysis project on securitisation datasets |
-| [SQL Analysis](https://github.com/vikashkr20/SQL-Analysis-) | T-SQL based data analysis project |
-| [Power BI Analysis](https://github.com/vikashkr20/Power-BI-Analysis-) | Interactive Power BI dashboards and reports |
-| [Riding Analysis](https://github.com/vikashkr20/Riding-Analysis) | Python-based analysis of riding/trip data |
+| [Music Store SQL Analysis](https://github.com/vikashkr20/Raw-Music-Store-Analysis-SQL-) | 11-table Chinook-style DB — joins, CTEs, recursive CTEs, window functions |
+| [SQL Analysis](https://github.com/vikashkr20/SQL-Analysis-) | T-SQL based querying, aggregation, and reporting project |
 
 ---
 
@@ -111,6 +117,9 @@
 
 💬 **Let's connect and collaborate on data-driven projects!**
 
+<a href="https://vikashkr20.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/vikash-kumar-1577012a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
